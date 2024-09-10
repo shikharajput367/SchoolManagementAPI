@@ -1,0 +1,23 @@
+# Build Folders
+bin/
+obj/
+
+# Auto-generated files
+Generated_Code/
+
+# Packages
+*.nupkg
+*.snupkg
+
+# Folder config file
+Desktop.ini
+
+# MongoDB configuration
+appsettings.json
+
+# Publish output
+publish/
+out/
+
+# Entity Framework Migrations
+Migrations/
