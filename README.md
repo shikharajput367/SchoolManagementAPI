@@ -13,6 +13,8 @@ Combine data from SQL Server and MongoDB.
 Secure API endpoints using JWT-based authentication.
 AutoMapper integration for mapping between entities and DTOs.
 Swagger integration for API documentation.
+Contains unit tests for various scenarios using xUnit and Moq.
+Containerized using Docker for easy deployment.
 
 **Technologies**
 
@@ -21,6 +23,7 @@ SQL Server
 MongoDB (via MongoDB Compass)
 AutoMapper
 Swagger for API Documentation
+Moq (Mocking in unit tests)
 Docker
 
 **Requirements**
@@ -30,6 +33,7 @@ SQL Server (LocalDB or a full installation)
 MongoDB Compass
 MongoDB server instance
 Visual Studio or any IDE for .NET development
+Docker (for containerization)
 
 **Setup Instructions**
 
